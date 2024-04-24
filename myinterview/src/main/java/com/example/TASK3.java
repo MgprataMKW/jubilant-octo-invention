@@ -20,9 +20,9 @@ public class TASK3 {
         // Creating new list to storage the strings
 		List<String> stringList = new ArrayList<String>();
         
-        // Adding random quantity of strings to be added in the list (between five and fifteen)
+        // Adding random quantity of strings to be added in the list (between three and nine)
         Random random = new Random();
-        int numStrings = random.nextInt(11) + 5;
+        int numStrings = random.nextInt(7) + 3;
         
         // Adding random strings to the list
         for (int i = 0; i < numStrings; i++) {
@@ -48,26 +48,14 @@ public class TASK3 {
     // Function to generate a random string
     private static String generateRandomString(Random random) {
     	
-        // Defining random string size (between three and eight characters)
-        int length = random.nextInt(6) + 3;
+        // Defining random string size (between three and nine characters)
+        int length = random.nextInt(7) + 3;
         StringBuilder sb = new StringBuilder(length);
         
-         // Generating random alphabetic and numeric strings
+         // Generating random alphabetic strings
         for (int i = 0; i < length; i++) {
-            boolean isLetter = random.nextBoolean();
-            
-            if (isLetter) {
-            	
-                // Generating random letter ('a' to 'z')
-                char c = (char) (random.nextInt(26) + 'a');
-                sb.append(c);
-                
-            } else {
-            	
-                // Generating random number ('0' a '9')
-                char c = (char) (random.nextInt(10) + '0');
-                sb.append(c);
-            }
+            char c = (char) (random.nextInt(26) + 'a'); // Caracteres de 'a' a 'z'
+            sb.append(c);
         }
         
         return sb.toString();
