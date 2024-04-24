@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class TASK1 {
 	
-	// Function to check if a word, phrase, number, or other sequence of characters is a palindrome
+    // Function to check if a word, phrase, number, or other sequence of characters is a palindrome
     public static boolean isPalindrome(String input) {
     	
         // Reversing the input string
