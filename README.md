@@ -56,23 +56,23 @@ TASK5 - Task here is to Create an implementation of a Rest API and Exposees it. 
 
 ## LINK TO TASKS SOLUTIONS
 
-TASK1 - <a href=https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK1.java></a>
+TASK1 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK1.java"></a>
 
-TASK2 - <a href=https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK2.java></a>
+TASK2 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK2.java"></a>
 
-TASK3 - <a href=https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK3.java></a>
+TASK3 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK3.java"></a>
 
-TASK4 - <a href=https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK4.java></a>
+TASK4 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK4.java"></a>
 
-TASK5 - <a href=https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK5.java></a>
+TASK5 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myinterview/src/main/java/com/example/TASK5.java"></a>
 
 ---
 
 ## ANOTHER LINKS
 
-- link to the repository with  solution to the test: <a href=https://github.com/MgprataMKW/teste-digiage></a>
+- link to the repository with  solution to the test: <a href="https://github.com/MgprataMKW/teste-digiage"></a>
 
-- link to the project presentation: <a href=https://coodesh.com/pt/assessments/project/83efef75-af54-4345-a279-12bd2996ad76/intro></a>
+- link to the project presentation: <a href="https://coodesh.com/pt/assessments/project/83efef75-af54-4345-a279-12bd2996ad76/intro"></a>
 
 ---
 
