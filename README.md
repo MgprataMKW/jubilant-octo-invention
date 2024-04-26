@@ -70,9 +70,9 @@ TASK5 - <a href="https://github.com/MgprataMKW/teste-digiage/blob/main/myintervi
 
 ## ANOTHER LINKS
 
-- link to the repository with  solution to the test: <a href="https://github.com/MgprataMKW/teste-digiage"></a>
+- <a href="https://github.com/MgprataMKW/teste-digiage">link to the repository with solution to the test</a>
 
-- link to the project presentation: <a href="https://coodesh.com/pt/assessments/project/83efef75-af54-4345-a279-12bd2996ad76/intro"></a>
+- <a href="https://coodesh.com/pt/assessments/project/83efef75-af54-4345-a279-12bd2996ad76/intro">link to project presentation</a>
 
 ---
 
